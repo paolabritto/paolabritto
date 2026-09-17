@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👩‍💻 Paola de Britto
-### Estudante de ADS 
+# Paola de Britto
+### Estudante de ADS - Transformando ideias em código
 
 
 </div>
