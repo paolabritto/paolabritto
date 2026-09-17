@@ -3,18 +3,21 @@
 # Paola de Britto
 ### Estudante de ADS - Transformando ideias em código
 
-
 </div>
 
 ---
 
 ### 🚀 Languages and Tools
-![Skills](https://skillicons.dev/icons?i=js,node.js,angular,python,c#,flask,mysql)
 
-### 📊 GitHub Stats
-![Paola's GitHub stats](https://github-readme-stats.vercel.app/api?username=paolabritto&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paolabritto&layout=compact&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" height="45"/>
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45"/>
+</p>
 
 ---
 
