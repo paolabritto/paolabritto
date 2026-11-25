@@ -1,7 +1,7 @@
 <div align="center">
 
 # Paola de Britto
-### Estudante de ADS 
+### ADS Student
 
 </div>
 
